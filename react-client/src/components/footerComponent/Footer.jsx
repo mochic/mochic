@@ -4,9 +4,8 @@ class Footer extends Component {
     render() {
         return (
             <footer>
-                <div>
-                    footer component
-                </div>
+                <div>footer component</div>
+                <a href="https://github.com/mochic/mochic">repo</a>
             </footer>
         )
     }
