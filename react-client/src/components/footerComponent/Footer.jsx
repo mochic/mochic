@@ -1,14 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class Footer extends Component {
-    render() {
-        return (
-            <footer>
-                <div>footer component</div>
-                <a href="https://github.com/mochic/mochic">repo</a>
-            </footer>
-        )
-    }
-}
+const Footer = () => (
+    <footer>
+        <div>footer component</div>
+        <a href="https://github.com/mochic/mochic">repo</a>
+    </footer>
+)
 
 export default Footer;
