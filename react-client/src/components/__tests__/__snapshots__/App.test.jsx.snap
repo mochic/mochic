@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders deep 1`] = `
+<div>
+  <header>
+    <ul
+      id="headerButtons"
+    >
+      <li
+        className="navButton"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          home
+        </a>
+      </li>
+    </ul>
+  </header>
+  <div>
+    home page
+  </div>
+  <footer>
+    <div>
+      footer component
+    </div>
+    <a
+      href="https://github.com/mochic/mochic"
+    >
+      repo
+    </a>
+  </footer>
+</div>
+`;
