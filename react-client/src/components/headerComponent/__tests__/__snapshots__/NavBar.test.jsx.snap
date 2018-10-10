@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders deep 1`] = `
+<header>
+  <ul
+    id="headerButtons"
+  >
+    <li
+      className="navButton"
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        home
+      </a>
+    </li>
+  </ul>
+</header>
+`;
