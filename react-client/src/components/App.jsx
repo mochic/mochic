@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import { browserHistory } from 'react-router';
 
-import HomePage from './pages/homePage';
+import HomePage from './pages/HomePage';
 import NavBar from './headerComponent/navBar';
 import Footer from './footerComponent/footer';
 
