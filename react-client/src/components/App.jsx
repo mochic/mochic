@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 import HomePage from './pages/HomePage';
-import NavBar from './headerComponent/navBar';
-import Footer from './footerComponent/footer';
+import NavBar from './headerComponent/NavBar';
+import Footer from './footerComponent/Footer';
 
 class App extends Component {
   render() {
